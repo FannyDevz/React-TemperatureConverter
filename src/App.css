@@ -10,5 +10,6 @@
   width: 100%;
 }
 .input__result {
-  max-width: 80px;
+  min-width: 160px;
+  max-width: 100%;
 }
